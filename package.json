@@ -1,0 +1,14 @@
+{
+	"name": "com.namnh.soframework",
+	"version": "0.0.1",
+	"displayName": "NHN-ScriptableObject-Framework",
+	"unity": "2018.1",
+	"description": "ScriptableObject Framework For Unity",
+	"keywords": ["soframework"],
+	"category": "Util",
+	"author": {
+		"name": "NamNH"
+	},
+	"dependencies": {
+	}
+}
