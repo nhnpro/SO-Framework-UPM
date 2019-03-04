@@ -1,6 +1,9 @@
 {
     "name": "com.namnh.soframework.events.editor",
-    "references": [],
+    "references": [
+        "ScriptableObjectFramework",
+        "com.namnh.soframework.core.editor"
+    ],
     "optionalUnityReferences": [],
     "includePlatforms": [
         "Editor"

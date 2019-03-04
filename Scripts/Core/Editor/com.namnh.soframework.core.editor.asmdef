@@ -1,6 +1,8 @@
 {
     "name": "com.namnh.soframework.core.editor",
-    "references": [],
+    "references": [
+        "ScriptableObjectFramework"
+    ],
     "optionalUnityReferences": [],
     "includePlatforms": [
         "Editor"

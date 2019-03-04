@@ -1,6 +1,9 @@
 {
     "name": "com.namnh.soframework.corevar.editor",
-    "references": [],
+    "references": [
+        "com.namnh.soframework.core.editor",
+        "ScriptableObjectFramework"
+    ],
     "optionalUnityReferences": [],
     "includePlatforms": [
         "Editor"
