@@ -9,7 +9,7 @@ Make By 1B (nhnpro.nguyenhoang@gmail.com) for personal Projects
 {  
   "dependencies": {
 		...
-		"com.namnh.soframework": "https://github.com/nhnpro/SO-Framework-UPM.git#0.0.1",
+		"com.namnh.soframework": "https://github.com/nhnpro/SO-Framework-UPM.git#0.0.2",
 		...
 	}
 }
